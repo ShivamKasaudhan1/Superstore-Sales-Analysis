@@ -72,7 +72,7 @@ Superstore-Sales-Analysis/
 
 ## 📥 Download Power BI Dashboard
 
-If GitHub doesn't support `.pbix` preview, you can [**download the dashboard here**](https://drive.google.com/your-powerbi-link).
+If GitHub doesn't support `.pbix` preview, you can [**download the dashboard here**] (https://drive.google.com/file/d/1rUpXVSrI3ZnZyUU26rpuM8oBog_hElgb/view?usp=sharing).
 
 ---
 
@@ -90,13 +90,12 @@ If GitHub doesn't support `.pbix` preview, you can [**download the dashboard her
 
 ## ✍️ Author
 
-**Your Name**  
+**Shivam Kasaudhan**  
 Aspiring Data Analyst  
-[LinkedIn](#) | [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/shivamkasaudhan1
+
+) 
 
 ---
 
-## 📌 Resume Use Example
-
-> “Built a complete Superstore sales analytics project using Excel, SQL, Python, and Power BI. Delivered business-ready dashboards and insights across customer segments, product categories, and regions.”
 
