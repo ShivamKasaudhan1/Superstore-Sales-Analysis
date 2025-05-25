@@ -92,7 +92,10 @@ If GitHub doesn't support `.pbix` preview, you can [**download the dashboard her
 
 **Shivam Kasaudhan**  
 Aspiring Data Analyst 
-[www.linkedin.com/in/shivamkasaudhan1]
+
+[www.linkedin.com/in/shivamkasaudhan1
+
+]
 ---
 
 
