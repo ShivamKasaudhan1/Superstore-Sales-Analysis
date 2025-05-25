@@ -72,7 +72,7 @@ Superstore-Sales-Analysis/
 
 ## 📥 Download Power BI Dashboard
 
-If GitHub doesn't support `.pbix` preview, you can [**download the dashboard here**] (https://drive.google.com/file/d/1rUpXVSrI3ZnZyUU26rpuM8oBog_hElgb/view?usp=sharing).
+If GitHub doesn't support `.pbix` preview, you can [**download the dashboard here**] (https://drive.google.com/file/d/1I9TN-JrzRyL0TGWMG6BXMGqJOycP0J5M/view?usp=sharing).
 
 ---
 
@@ -92,6 +92,7 @@ If GitHub doesn't support `.pbix` preview, you can [**download the dashboard her
 
 **Shivam Kasaudhan**  
 Aspiring Data Analyst 
+
 www.linkedin.com/in/shivamkasaudhan1
 
 ---
