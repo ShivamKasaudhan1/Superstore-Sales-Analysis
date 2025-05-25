@@ -59,10 +59,10 @@ Superstore-Sales-Analysis/
 ![Monthly Sales](visuals/monthly_sales_trend.png)
 
 ### 🔹 Profit by Product Category
-![Category Profit](visuals/category_profit_bar.png)
+![Category Profit](visuals/profit_by_product_category.png)
 
 ### 🔹 Heatmap – Profit by Category and Region
-![Profit Heatmap](visuals/profit_category_region_heatmap.png)
+![Profit Heatmap](visuals/category_profit_heatmap.png)
 
 
 ### 🔹 Power BI Dashboard Overview
