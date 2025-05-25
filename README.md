@@ -1,6 +1,6 @@
 # 🛒 Superstore Sales Analysis
 
-An end-to-end data analysis and visualization project using **Excel**, **SQL (MySQL)**, **Python**, and **Power BI** based on the Superstore retail dataset. To support data-driven decisions, this project explores regional sales trends, product profitability, customer value, and time-based patterns.
+An end-to-end data analysis and visualization using **Excel**, **SQL (MySQL)**, **Python**, and **Power BI** based on the Superstore retail dataset. To support data-driven decisions, this project explores regional sales trends, product profitability, customer value, and time-based patterns.
 
 ---
 
@@ -9,7 +9,7 @@ An end-to-end data analysis and visualization project using **Excel**, **SQL (My
 - Clean and explore Superstore sales data across regions, categories, and customers.
 - Perform sales and profit analysis using SQL and Python.
 - Visualize key business metrics using Power BI and Excel dashboards.
-- Practice and showcase multi-tool data analysis workflow.
+- Practice and showcase a multi-tool data analysis workflow.
 
 ---
 
